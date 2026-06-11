@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unlearning_reid"
+version = "1.0.0"
+description = "TIU-ReID: Target Identity Unlearning for Person Re-Identification (CVPR 2026 Workshops)"
+requires-python = ">=3.9"
+dependencies = ["numpy", "torch", "torchvision", "tqdm", "pandas", "pyyaml"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["unlearning_reid*"]

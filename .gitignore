@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Datasets (user-prepared; keep the README)
+data/*
+!data/README.md
+
+# Experiment outputs and weights (download from GitHub Releases; keep the README)
+output/*
+!output/README.md
+
+# Large binaries anywhere
+*.pth
+*.npz
+*.zip
+*.tar.gz
+
+# Logs / temp
+*.log
+tmp/

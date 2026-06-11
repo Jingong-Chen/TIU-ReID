@@ -1,0 +1,18 @@
+# Install PyTorch first, matching your CUDA version, e.g.:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+numpy
+scipy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+yacs
+pyyaml
+tqdm
+tabulate
+termcolor
+einops
+timm
+faiss-cpu
+tensorboard
+gdown

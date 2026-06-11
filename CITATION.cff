@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "TIU-ReID: Target Identity Unlearning for Person Re-Identification"
+authors:
+  - family-names: Chen
+    given-names: Jingong
+  - family-names: Kim
+    given-names: Dongyoun
+  - family-names: Pack
+    given-names: Chulwoo
+  - family-names: Huang
+    given-names: Jun
+  - family-names: Won
+    given-names: Kwanghee
+repository-code: "https://github.com/Jingong-Chen/TIU-ReID"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "TIU-ReID: Target Identity Unlearning for Person Re-Identification"
+  authors:
+    - family-names: Chen
+      given-names: Jingong
+    - family-names: Kim
+      given-names: Dongyoun
+    - family-names: Pack
+      given-names: Chulwoo
+    - family-names: Huang
+      given-names: Jun
+    - family-names: Won
+      given-names: Kwanghee
+  collection-title: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+  month: 6
+  year: 2026
+  start: 8506
+  end: 8515
+  url: "https://openaccess.thecvf.com/content/CVPR2026W/MUV/papers/Chen_TIU-ReID_Target_Identity_Unlearning_for_Person_Re-Identification_CVPRW_2026_paper.pdf"

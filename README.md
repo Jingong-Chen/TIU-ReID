@@ -1,6 +1,6 @@
 # TIU-ReID: Target Identity Unlearning for Person Re-Identification
 
-Authors: Jingong Chen, Dongyoun Kim, Chulwoo Pack, Jun Huang, Kwanghee Won*
+Authors: Jingong Chen, Dongyoun Kim, Chulwoo Pack, Kwanghee Won*
 
 [Paper](https://openaccess.thecvf.com/content/CVPR2026W/MUV/papers/Chen_TIU-ReID_Target_Identity_Unlearning_for_Person_Re-Identification_CVPRW_2026_paper.pdf): CVPR2026 Workshop
 

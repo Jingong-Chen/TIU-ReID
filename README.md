@@ -123,13 +123,11 @@ Expected for the released checkpoint (target ID 2, seed 0): Ret mAP ≈ 0.945, F
 If you find this work useful, please cite:
 
 ```
-@InProceedings{Chen_2026_CVPR,
-    author    = {Chen, Jingong and Kim, Dongyoun and Pack, Chulwoo and Huang, Jun and Won, Kwanghee},
-    title     = {TIU-ReID: Target Identity Unlearning for Person Re-Identification},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-    month     = {June},
-    year      = {2026},
-    pages     = {8506-8515}
+@article{chen2026mome,
+  title   = {Forget the Data, Keep the Capability: Switchable Unlearning for Retrieval},
+  author  = {Chen, Jingong and Gao, Kyle and Li, Guangyuan and Pack, Chulwoo and
+             Liu, Sijia and Won, Kwanghee},
+  year    = {2026}
 }
 ```
 
